@@ -1,0 +1,17 @@
+Hora de acordar
+INICIO
+1 - Abrir os olhos
+2 - Bocejar
+3 - Ver as horas
+	se horas < 7:00
+		 Voltar a dormir
+	senão
+		 hora de levantar
+4 - Estou coberto? 
+	se SIM
+		 Retirar a coberta de cima de mim
+	se NÃO
+		sentar na beira da cama
+5 - Calçar as pantufas
+6 - Ficar de pé
+FIM
